@@ -7,3 +7,6 @@ I do code in different programming languages which mainly include Java, Python,e
 I'm currently learning Kotlin and R-Programming Language.
 I'm also a gamer who loves to explore different kinds of games like FarCry,CS Go, etc.
 I'm very much into Rifles and Modern Technologies.
+
+
+This is my first GitHub respositary.
